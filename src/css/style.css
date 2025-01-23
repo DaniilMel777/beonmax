@@ -15,7 +15,7 @@ html {
 }
 
 .promo {
-    height: 850px;
+    height: 800px;
     background: url('../img/bg/main_bg.png') center center/cover no-repeat;
     padding: 39px 0 62px 0;
 }
@@ -46,7 +46,7 @@ html {
 
 .simple .title_big{
   font-size: 80px;
-  font-weight: 400;
+  font-weight: 900;
   text-transform: uppercase;
   text-align: center;
   color: #ffffff;
